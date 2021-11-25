@@ -1,4 +1,4 @@
-def madlib();
+def madlib():
 
 # user inputs
 month = input("Miesiąc: ")
