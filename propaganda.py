@@ -1,7 +1,7 @@
 def madlib();
 
 # user inputs
-adj = input()("Przymiotnik: ")
+adj = input("Przymiotnik: ")
 verb1 = input("Czasownik: ")
 verb2 = input("Czasownik: ")
 famous_person =  input("Twój ulubiony polityk: ")
