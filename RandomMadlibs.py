@@ -1,7 +1,6 @@
-from SampleMadlibs import propaganda, 
+from sample_madlibs import propaganda, kotek, pogoda
 import random 
 
-
-if _name_=="_main_":
-  m = random.choice([propaganda, ])
+if __name__ == "__main__":
+  m = random.choice([propaganda, kotek, pogoda ])
   m.madlib()
